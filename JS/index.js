@@ -218,7 +218,7 @@ function openLink(url){
 /* ----------------------------------------------------------------------------- */
 /* Disable Inspect ------------------------------------------------------------- */
 /* ----------------------------------------------------------------------------- */
-/*
+
 document.addEventListener('contextmenu', (e) => e.preventDefault());
 
 function ctrlShiftKey(e, keyCode) {
@@ -247,4 +247,4 @@ document.onkeydown = (e) => {
 
   return false;
 
-};*/
+};
